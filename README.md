@@ -10,6 +10,7 @@ aws s3 file upload example with nodejs-expressjs
 - clone this project
 - npm install
 - Create .env file --> example : 
+
 AWS_ACCESS_KEY_ID = YOUR ACCESS KEY HERE
 
 AWS_SECRET_ACCESS_KEY = YOUR SECRET ACCESS KEY HERE
